@@ -1,0 +1,4 @@
+college_name,location,rank
+清华大学,北京,1
+中山大学,广州,10
+XXX大学,新疆,100
